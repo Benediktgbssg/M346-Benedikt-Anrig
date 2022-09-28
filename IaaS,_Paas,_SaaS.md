@@ -1,3 +1,4 @@
+![Iaas-,Paas-,Saaspic](https://www.redhat.com/cms/managed-files/iaas-paas-saas-diagram5.1-1638x1046.png)
 # Iaas
 
 Iaas (Infrastructure-as-a-Service)
@@ -17,7 +18,7 @@ Typische beispiele für Iaas sind
 - Microsoft Azure 
 - Google Cloud.
 
-[Weitere Informationen](https://www.redhat.com/de/topics/cloud-computing/iaas-vs-paas-vs-saas#iaas)
+
 # Paas
 
 Paas (Platform-as-a-Service)
@@ -45,3 +46,5 @@ Beispiele für SaaS:
 - Dropbox
 - Salesforce 
 - Google Apps
+
+[Weitere Informationen](https://www.redhat.com/de/topics/cloud-computing/iaas-vs-paas-vs-saas#iaas)
