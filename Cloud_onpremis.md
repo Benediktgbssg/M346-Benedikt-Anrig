@@ -1,3 +1,4 @@
+![Pic clouds](https://www.continum.net/wp-content/uploads/continum-hybrid-cloud.png)
 # OnPremise Cloud
 
 Eine On-Premise Cloud ist eigentlich nichts weiter als ein lokaler Fileserver. Dieser kann in deinem Keller oder zum Beispiel auch in deiner Firma stehen.
